@@ -1,11 +1,22 @@
 <div align=center>
-  <h1> JNU student Jungwoan On 👋 </h1>
+  <h1>👋 JNU student On-JungWoan</h1>
   <h3> AI를 공부하는 성장형 개발자 온정완입니다. </h3>
   통계학 전공 지식을 살려 다양한 프로젝트를 기획해보고 있으며, AI와 플랫폼 개발을 중심적으로 공부하고 있습니다.<br>
-  해당 기술들을 더 고도화하여 사회 발전에 기여할 수 있는 개발자로 성장하고자 합니다.
+  해당 기술들을 더 고도화하여 사회 발전에 기여할 수 있는 개발자로 성장하고자 합니다.<br>
+  
+  <br>
+  
+  <a href="slalfpdl16@naver.com">
+    <img src="https://img.shields.io/badge/slalfpdl16@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white">
+  </a>
+  <a href="https://on-jungwoan.github.io/">
+    <img src="https://img.shields.io/badge/성장하는 정완이의 개발일기-181717?style=flat-square&logo=github&logoColor=white">
+  </a><br>
+
 </div>
 
 
+<br>
 <br>
 
 
@@ -14,9 +25,9 @@
 
 <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
+  
 <h3>Machine Learning</h3>
-  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=&logoColor=white">
 
 <h3>Computer Vision</h3>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
