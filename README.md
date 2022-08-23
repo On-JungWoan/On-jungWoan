@@ -66,5 +66,5 @@ Machine Learning | Computer Vision | FullStack Web Development
 
 
 <div align="center">
-  <h1> 👇 My Repo </h1>
+  <h1> 👇 See my repo </h1>
 </div>
