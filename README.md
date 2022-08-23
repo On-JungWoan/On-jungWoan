@@ -19,25 +19,19 @@
 <br>
 <br>
 
-
 <div align=center>
 <h1> 📚I`m studying </h1>
 
 <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   
-<h3>Machine Learning</h3>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=&logoColor=white">
+<br>  
+<br>
 
-<h3>Computer Vision</h3>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+Machine Learning | Computer Vision | FullStack Web Development
+:--:|:--:|:--:
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45px"> <br> <img src="https://raw.githubusercontent.com/pycaret/pycaret/master/docs/images/logo.png" height="20px">|<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="50px">|<img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50px"> <br> <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="50px">
 
-<h3>FullStack Web Development</h3>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 <h3>Have been used</h3>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white">
