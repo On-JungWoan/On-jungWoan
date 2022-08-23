@@ -1,15 +1,6 @@
 <div align=center>
-  <h1>👋 JNU student On-JungWoan</h1>
-  <h3> AI를 공부하는 성장형 개발자 온정완입니다. </h3>
-  통계학 전공 지식을 살려 다양한 프로젝트를 기획해보고 있으며, AI와 플랫폼 개발을 중심적으로 공부하고 있습니다.<br>
-  해당 기술들을 더 고도화하여 사회 발전에 기여할 수 있는 개발자로 성장하고자 합니다.<br>
   
   ![제목을-입력해주세요_-001 (1)](https://user-images.githubusercontent.com/84084372/186129078-ece213dc-cffe-49fc-9dfd-d76f15bf79cb.jpg)
-
-  
-  <img src="https://user-images.githubusercontent.com/84084372/186128406-a47c488a-9ae0-4419-a64b-325fcf6428ee.jpg" width="1000px">
-
-  <br>
   
   <a href="mailto:slalfpdl16@naver.com">
     <img src="https://img.shields.io/badge/slalfpdl16@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white">
@@ -19,7 +10,6 @@
   </a><br>
 
 </div>
-
 
 <br>
 <br>
