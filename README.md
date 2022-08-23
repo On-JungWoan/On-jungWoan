@@ -1,7 +1,8 @@
 <div align=center>
   <h1>👋 JNU student On-JungWoan</h1>
   
-  ![제목을-입력해주세요_-001 (1)](https://user-images.githubusercontent.com/84084372/186129078-ece213dc-cffe-49fc-9dfd-d76f15bf79cb.jpg)
+  <a href="https://on-jungwoan.github.io"><img src="https://user-images.githubusercontent.com/84084372/186133536-6cc0b9a1-09b0-440e-84ef-1f310333cb36.jpg"></a>
+
   
   <a href="mailto:slalfpdl16@naver.com">
     <img src="https://img.shields.io/badge/slalfpdl16@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white">
