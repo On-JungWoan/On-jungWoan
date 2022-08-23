@@ -19,8 +19,9 @@
 <br>
 <br>
 
+
 <div align=center>
-<h1> 📚I`m studying </h1>
+<h1> 📚 I`m studying </h1>
 
 <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -45,13 +46,25 @@ Machine Learning | Computer Vision | FullStack Web Development
   <br>
   <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white">
-<h1></h1>
 
+
+<br>
+<br>
 <br>
 
 <div align="center">
+  <h1> 📊 Statistics </h1>
   <img src="https://github-readme-stats.vercel.app/api?username=On-JungWoan&theme=dark&show_icons=true&locale=kr&include_all_commits=true&hide=stars&&count_private=true">
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOn-JungWoan&count_bg=%235ECA0B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+<br>
+<br>
+<br>
+
+
+<div align="center">
+  <h1> 👇 My Repo </h1>
+</div>
