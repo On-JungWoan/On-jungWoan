@@ -1,6 +1,9 @@
 <div align=center>
-  <a href="https://on-jungwoan.github.io"><img src="https://user-images.githubusercontent.com/84084372/186133536-6cc0b9a1-09b0-440e-84ef-1f310333cb36.jpg"></a>
+  <a href="https://on-jungwoan.github.io">
+    <img src="https://user-images.githubusercontent.com/84084372/186133536-6cc0b9a1-09b0-440e-84ef-1f310333cb36.jpg" width="85%">
+  </a>
 
+  <br>
   
   <a href="mailto:slalfpdl16@naver.com">
     <img src="https://img.shields.io/badge/slalfpdl16@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white">
