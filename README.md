@@ -1,5 +1,6 @@
 <div align=center>
   <a href="https://on-jungwoan.github.io">
+    <h1>👋 JNU student On-JungWoan</h1>
     <img src="https://user-images.githubusercontent.com/84084372/186133536-6cc0b9a1-09b0-440e-84ef-1f310333cb36.jpg" width="85%">
   </a>
 
