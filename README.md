@@ -16,6 +16,7 @@
 
 <br>
 <br>
+<br>
 
 
 <div align=center>
@@ -46,6 +47,7 @@ Machine Learning | Computer Vision | FullStack Web Development
   <img src="https://img.shields.io/badge/gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white">
 
 
+<br>
 <br>
 <br>
 <br>
