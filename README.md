@@ -55,4 +55,5 @@
 
 <div align="center">
   <h1> 👇 See my repo </h1>
+  당분간 repo는 private으로 전환합니다
 </div>
