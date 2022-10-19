@@ -1,8 +1,7 @@
 <div align=center>
-  <a href="https://on-jungwoan.github.io">
-    <h1>👋 JNU student On-JungWoan</h1>
-    <img src="https://user-images.githubusercontent.com/84084372/186133536-6cc0b9a1-09b0-440e-84ef-1f310333cb36.jpg" width="85%">
-  </a>
+  <h1>👋 JNU student On-JungWoan</h1>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=On-JungWoan&theme=dark&show_icons=true&locale=kr&include_all_commits=true&hide=stars&&count_private=true">
 
   <br>
 
@@ -11,54 +10,42 @@
   </a>
   <a href="https://on-jungwoan.github.io/">
     <img src="https://img.shields.io/badge/성장하는 정완이의 개발일기-181717?style=flat-square&logo=github&logoColor=white">
-  </a><br>
+  </a>
+</div>
+
+<div align = "center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOn-JungWoan&count_bg=%235ECA0B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-<br>
+
 <br>
 <br>
 
 
 <div align=center>
-<h1> 📚 I`m studying </h1>
+<h1> 📚I`m studying </h1>
 
-<h3>Programming Languages</h3>
+<h4>Programming Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   
-<br>  
-<br> 
+<h4>Machine Learning</h4>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=&logoColor=white">
 
-Machine Learning | Computer Vision | FullStack Web Development
-:--:|:--:|:--:
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45px"> <br> <img src="https://raw.githubusercontent.com/pycaret/pycaret/master/docs/images/logo.png" height="20px">|<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="50px">|<img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50px"> <br> <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="50px">
+<h4>Computer Vision</h4>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white">
 
-
-<h3>Have been used</h3>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/java-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white">
-
-
+<h4>FullStack Web Development</h4>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
 <br>
-<br>
-<br>
-<br>
-
-<div align="center">
-  <h1> 📊 Statistics </h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=On-JungWoan&theme=dark&show_icons=true&locale=kr&include_all_commits=true&hide=stars&&count_private=true">
-</div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOn-JungWoan&count_bg=%235ECA0B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 
 <br>
