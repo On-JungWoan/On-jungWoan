@@ -27,18 +27,18 @@
 <div align=center>
 <h1> 📚I`m studying </h1>
 
-<h4>Programming Languages</h4>
+<h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   
-<h4>Machine Learning</h4>
+<h3>Machine Learning</h3>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=&logoColor=white">
 
-<h4>Computer Vision</h4>
+<h3>Computer Vision</h3>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white">
 
-<h4>FullStack Web Development</h4>
+<h3>FullStack Web Development</h3>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
