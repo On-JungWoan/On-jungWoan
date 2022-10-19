@@ -32,7 +32,7 @@
   
 <h3>Machine Learning</h3>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=Product Hunt&logoColor=white">
 
 <h3>Computer Vision</h3>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
