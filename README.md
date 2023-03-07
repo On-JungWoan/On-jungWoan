@@ -1,7 +1,7 @@
 <div align=center>
   <h1>👋 JNU student On-JungWoan</h1>
 
-  <img src="https://github-readme-stats-pi-blush.vercel.app/api?username=On-JungWoan&theme=dark&show_icons=true&locale=kr&include_all_commits=false&hide=stars&&count_private=true">
+  [![Jeongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=on-jungwoan&theme=dark&show_icons=true&locale=kr&include_all_commits=false&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
 
