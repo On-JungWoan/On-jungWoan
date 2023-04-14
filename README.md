@@ -22,35 +22,3 @@
 
 <br>
 <br>
-
-
-<div align=center>
-<h1> 📚I`m studying </h1>
- 
-<h3>Computer Vision</h3>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white">  
-  
-<h3>Machine Learning</h3>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/pycaret-0094F5?style=for-the-badge&logo=ProductHunt&logoColor=white">
-
-<h3>BackEnd Web Development</h3>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<h3>Dev. Tools</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">  
-  
-<br>
-<br>
-<br>
-
-
-<div align="center">
-  <h1> 👇 See my repo </h1>
-</div>
-
