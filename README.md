@@ -1,5 +1,5 @@
 <div align=center>
-  <h1>👋 JNU student On-JungWoan</h1>
+
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-real.vercel.app/api?username=on-jungwoan&theme=dark&show_icons=true&locale=kr&include_all_commits=false&&count_private=true" />
