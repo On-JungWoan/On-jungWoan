@@ -1,5 +1,7 @@
-<div align=center>
+<br>
+<br>
 
+<div align=center>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-real.vercel.app/api?username=on-jungwoan&theme=dark&show_icons=true&locale=kr&include_all_commits=false&&count_private=true" />
@@ -20,7 +22,3 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOn-JungWoan&count_bg=%235ECA0B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-
-<br>
-<br>
