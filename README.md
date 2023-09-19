@@ -1,4 +1,13 @@
+# Jeongwan On
+
+
+I am a B.S. student in School of Statistics at Chonnam National University (CNU). I’m currently working on [UVLL(Unist Vision and Leaning Lab)](http://vision.unist.ac.kr/) and advised by [Seungryul Baek](https://sites.google.com/site/bsrvision00/). My research interests lie in **3D hand/obj pose estimation, motion reconstruction, and object detection**.
+
 <br>
+<br>
+
+# Stats
+
 <br>
 
 <div align=center>
