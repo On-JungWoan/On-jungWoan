@@ -6,10 +6,6 @@ I am a B.S. student in School of Statistics at Chonnam National University (CNU)
 <br>
 <br>
 
-# Stats
-
-<br>
-
 <div align=center>
 
 <p align="center">
