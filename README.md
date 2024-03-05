@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://on-jungwoan.github.io/">
+  <a href="https://www.linkedin.com/in/jeongwan-on-27698b290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
