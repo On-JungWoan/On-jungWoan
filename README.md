@@ -1,7 +1,7 @@
 ## 🙋‍♂️ Jeongwan On
 
-- I’m currently working on [UVLL(Unist Vision and Leaning Lab)](http://vision.unist.ac.kr/)
-- I'm interested in **VLM, 3D hand/obj pose estimation**
+- I’m currently working on [UVLL(Unist Vision and Leaning Lab)](http://vision.unist.ac.kr/) and advised by [Seungryul Baek](https://sites.google.com/site/bsrvision00/).
+- I'm interested in **3D Reconstruction, VLM**.
 - I'm majoring in Statistics at Chonnam Nation University (CNU).
 
 <div align = "center">
