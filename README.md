@@ -5,7 +5,7 @@
 - I'm majoring in Statistics at Chonnam Nation University (CNU).
 
 <div align = "center">
-  <img height="180em" src="https://github-readme-stats-real.vercel.app/api?username=on-jungwoan&theme=dark&show_icons=true&locale=en&include_all_commits=false&&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=on-jungwoan&theme=dark&show_icons=true&locale=en&include_all_commits=false&&count_private=true" />
 </div>
 
 <br>
