@@ -1,8 +1,7 @@
 ## 🙋‍♂️ Jeongwan On
 
 - I’m currently working on [UVLL(Unist Vision and Leaning Lab)](http://vision.unist.ac.kr/) and advised by [Seungryul Baek](https://sites.google.com/site/bsrvision00/).
-- I'm interested in **3D Reconstruction, VLM**.
-- I'm majoring in Statistics at Chonnam Nation University (CNU).
+- I'm interested in **3D Hand-Object Reconstruction**.
 
 <div align = "center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=on-jungwoan&theme=dark&show_icons=true&locale=en&include_all_commits=false&&count_private=true" />
