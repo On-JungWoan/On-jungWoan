@@ -14,7 +14,7 @@
 
 <div align=center>
 
-  <a href="https://on-jungwoan.github.io/">
+  <a href="https://sites.google.com/view/jeongwanon">
     <img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=googlehome&logoColor=white">
   </a>
 
