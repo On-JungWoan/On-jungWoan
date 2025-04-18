@@ -14,23 +14,23 @@
 
 <div align=center>
 
+  <a href="https://on-jungwoan.github.io/">
+    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+
+  <!--
   <a href="https://sites.google.com/view/jeongwanon">
     <img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=googlehome&logoColor=white">
   </a>
+  -->
 
-  <a href="https://on-jungwoan.github.io/">
-    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white">
+  <a href="https://www.linkedin.com/in/jeongwan-on-27698b290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:jeongwan.on@unist.ac.kr">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
-
-  <!--
-  <a href="https://www.linkedin.com/in/jeongwan-on-27698b290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  -->
 
   <br>
 
